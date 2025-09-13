@@ -8,6 +8,6 @@ Dans un premier temps, l'évolution des précipitations dans la région lyonnais
 
 Ensuite, deux analyses en composantes principales ont été performées. La première ACP cherche à expliquer les hauteurs des précipitations selon le mois, et la latitude et longitude des stations météorologiques. La deuxième ACP permet d'ajouter comme caractéristique, l'altitude des stations météorologiques.
 
-Veuillez trouver plus de détails dans le rapport du projet.
+Plus de détails sont disponibles dans le rapport du projet.
 
 Remerciements à M. Marteau et M. Mazel.
